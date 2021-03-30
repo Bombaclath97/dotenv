@@ -1,2 +1,2 @@
 # dotfiles
-Dotenv file backup
+Dotfile file backup
